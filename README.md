@@ -4,9 +4,28 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ```yaml
-{
-   name : dineshkumar
-   designation : full stack developer
+const Dinesh = {
+        name : "Dineshkumar",
+        school: "KSR_IET, GovtBoysHrSecSchool",
+        interests: ["music", "movies", "books", "sports", "travel"],
+        stack: "Full stack web developer",
+        address: {
+          state: "Tamilnadu",
+          country: "India",
+        },
+        code: ["Java", "Javascript", "SQL"],
+        frameworks: {
+           frontend : ["Angular","ReactJs", "Jquery", "Bootstrap"],
+           backend : ["spring", "springBoot", "jsp", "struts"]
+        },
+        tools: ["Git", "Github", "VSCode", "Intelij", "Eclipse", "Netbeans" , "SpringToolSuite"],
+        languages: ["Tamil", "English"],
+        contact: [
+            {
+              name: "Email",
+              value: "dineshspm18@gmail.com"
+            }      
+       ]
 }
 ```
 <!---
